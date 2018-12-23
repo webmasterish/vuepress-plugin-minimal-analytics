@@ -93,11 +93,6 @@ export default ({ router }) => {
       screenSize: true,
       language: true
     });
-    
-    router.afterEach(function (to) {
-      ga('set', 'page', to.fullPath)
-      ga('send', 'pageview')
-    })
   }
 }
 
