@@ -1,7 +1,7 @@
 {
   "name": "vuepress-plugin-minimal-analytics",
   "version": "0.0.1",
-  "description": "Minimal Google analytics plugin for vuepress",
+  "description": "Minimal Google Analytics plugin for VuePress",
   "main": "index.js",
   "scripts": {},
   "repository": {
