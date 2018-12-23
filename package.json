@@ -31,5 +31,11 @@
   },
   "engines": {
     "node": ">=8"
-  }
+  },
+  "files": [
+    "index.js",
+    "inject.js",
+    "README.md",
+    "LICENSE"
+  ]
 }
