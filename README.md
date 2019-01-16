@@ -4,7 +4,7 @@
 
 [![Build Status](https://img.shields.io/travis/webmasterish/vuepress-plugin-minimal-analytics/master.svg?style=flat-square)](https://travis-ci.org/webmasterish/vuepress-plugin-minimal-analytics)
 [![npm version](https://img.shields.io/npm/v/vuepress-plugin-minimal-analytics.svg?style=flat-square)](http://npm.im/vuepress-plugin-minimal-analytics)
-[![MIT License](https://img.shields.io/npm/l/express.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+[![MIT License](https://img.shields.io/npm/l/express.svg?style=flat-square)](http://opensource.org/licenses/MIT) [![Greenkeeper badge](https://badges.greenkeeper.io/webmasterish/vuepress-plugin-minimal-analytics.svg)](https://greenkeeper.io/)
 
 
 ## Why
