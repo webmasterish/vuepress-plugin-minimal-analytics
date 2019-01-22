@@ -10,7 +10,7 @@
 
 ## Why
 
-Because sometimes all you need is just the page views 
+Because sometimes all you need is just the page views
 without all the bloated libraries.
 
 
@@ -18,8 +18,8 @@ without all the bloated libraries.
 
 This plugin is based on the official VuePress plugin  [@vuepress/plugin-google-analytics](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-google-analytics) - [npm](https://www.npmjs.com/package/@vuepress/plugin-google-analytics).
 
-The difference betweeen this plugin and the official one is that it uses a light 
-version of the tracking code as introduced 
+The difference betweeen this plugin and the official one is that it uses a light
+version of the tracking code as introduced
 by 🌱 [minimalanalytics.com](https://minimalanalytics.com/) - source code in [this gist](https://gist.github.com/DavidKuennen/443121e692175d6fc145e1efb0284ec9).
 
 
@@ -49,7 +49,9 @@ Add `vuepress-plugin-minimal-analytics` in your site or theme config file.
 
 // replace 'XX-XXXXXXXXX-X' with your tracking id
 module.exports = {
-  plugins: ['minimal-analytics', {ga: 'XX-XXXXXXXXX-X'}],
+  plugins: [
+    ['minimal-analytics', {ga: 'XX-XXXXXXXXX-X'}]
+  ]
 }
 ```
 
